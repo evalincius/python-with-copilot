@@ -65,3 +65,5 @@ print_average_result(grades)
 is_person_student(person1)
 # Checking if the person is a student
 is_person_student(person2)
+
+# some change that we need to commit 
