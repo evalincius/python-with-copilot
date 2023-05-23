@@ -5,14 +5,13 @@
   "customizations": {
     "vscode": {
       "extensions": [
-		"GitHub.copilot",
 		"ms-python.python",
 		"ms-python.pylint"
 	]
     },
     "codespaces": {
       "openFiles": [
-        "README.md"
+        "my_python_playground.py"
       ]
     }
   }
